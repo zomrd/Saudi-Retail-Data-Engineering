@@ -91,3 +91,7 @@ Developed an interactive Power BI dashboard to visualize and analyze Saudi retai
 
 ### Power BI File
 ![Saudi Retail Sales Dashboard](Power%20bi/Saudi_Retail_Dashboard.png)
+
+### Download Power BI Dashboard
+
+[Download the Power BI (.pbix) File](Power%20bi/Saudi_Retail_Dashboard.pbix)
