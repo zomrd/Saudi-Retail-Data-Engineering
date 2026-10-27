@@ -77,15 +77,17 @@ The schedule uses the Airflow environment's configured timezone.
 ## Security
 Database credentials are provided through environment variables and are not included in the repository.
 
-## Future Improvements
-- Add automated data quality reporting
-- Add incremental data loading
-- Expand the dataset
-- Deploy Airflow in a production-ready environment
+### Dashboard Overview
 
+Developed an interactive Power BI dashboard to visualize and analyze Saudi retail sales performance.
 
+### Key Features
+- Revenue, Orders, and Quantity KPIs
+- Revenue Analysis by Product
+- Orders Analysis by Branch
+- Top 4 Products by Quantity Sold
+- Monthly Revenue Trends
+- Interactive Date, Branch, and Product Filters
 
-
-## Power BI Sales Dashboard
-
+### Power BI File
 ![Saudi Retail Sales Dashboard](Power%20bi/Saudi_Retail_Dashboard.png)
