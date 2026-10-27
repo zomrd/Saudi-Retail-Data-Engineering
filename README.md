@@ -82,3 +82,10 @@ Database credentials are provided through environment variables and are not incl
 - Add incremental data loading
 - Expand the dataset
 - Deploy Airflow in a production-ready environment
+
+
+
+
+## Power BI Sales Dashboard
+
+![Saudi Retail Sales Dashboard](Power%20bi/Saudi_Retail_Dashboard.png)
